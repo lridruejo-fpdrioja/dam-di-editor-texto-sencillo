@@ -1,0 +1,9 @@
+# Compilación
+bin/
+obj/
+
+# Archivos de usuario
+*.user
+
+# Visual Studio
+.vs/
