@@ -21,13 +21,14 @@ EditorTextoSencillo/
 │   └── EditorTextoControlador.cs     # Coordina modelo y vista
 ├── 📁 Modelo/
 │   └── EditorTextoModelo.cs          # Lógica de negocio y datos
+├── 📁 Recursos/
+│   └── 📁 Iconos/
+│       └── EditorTextoSencillo.ico       # Icono de la aplicación
 ├── 📁 Vista/
 │   ├── EditorTexto.cs                # Vista principal
 │   ├── EditorTexto.Designer.cs       # Diseño de la interfaz
 │   ├── EditorTexto.resx              # Recursos del formulario
 │   └── IEditorTextoVista.cs          # Contrato de la vista
-├── 📁 Recursos/
-│   └── EditorTextoSencillo.ico       # Icono de la aplicación
 ├── EditorTextoSencillo.csproj        # Proyecto de Visual Studio
 ├── EditorTextoSencillo.sln           # Solución del proyecto
 └── Program.cs                        # Punto de entrada
